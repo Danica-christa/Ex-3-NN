@@ -37,11 +37,12 @@ Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
 ```py
+
 import numpy as np
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
-```
+
 ```py
 x=np.array([[0,0,1,1],[0,1,0,1]])
 y=np.array([[0,1,1,0]])
