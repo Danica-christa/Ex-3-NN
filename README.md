@@ -42,6 +42,7 @@ import numpy as np
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
+```
 
 ```py
 x=np.array([[0,0,1,1],[0,1,0,1]])
